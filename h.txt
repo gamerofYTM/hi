@@ -1,0 +1,3 @@
+"ip":ManojYTM.aternos.me",
+"port":"48239",
+"name":ghochu"
